@@ -1,0 +1,4 @@
+myenv/
+*.npy
+*.mp4
+.DS_Store
